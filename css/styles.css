@@ -5,13 +5,12 @@
 /* Changing the main font and background colour */
 
 body {
-<<<<<<< HEAD
+HEAD
 	font-family: "Rakkas", serif;
 	background-color: #fffcf8;
-=======
+
 	font-family: Raleway, sans-serif;
 	background-color: #EfEBCE;
->>>>>>> 45f3bfdfdc35265456e17d51c1b3be241e8847a2
 }
 
 /* Changing the background colour for the header */
@@ -48,9 +47,9 @@ footer a:hover {
 		0 0 .5em white;
 }
 
-<<<<<<< HEAD
+ HEAD
 .nav-link {
 	color: #34623k
 }
 
-
+}
