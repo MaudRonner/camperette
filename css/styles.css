@@ -5,9 +5,16 @@
 /* Changing the main font and background colour */
 
 body {
+<<<<<<< HEAD
 	font-family: "Rakkas", serif;
 	background-color: #fffcf8;
 	
+=======
+HEAD
+	font-family: "Rakkas", serif;
+	background-color: #fffcf8;
+
+>>>>>>> c20c5e989f4f464224fc4a10d3465324b842b29a
 	font-family: Raleway, sans-serif;
 	background-color: #EfEBCE;
 }
@@ -46,13 +53,21 @@ footer a:hover {
 		0 0 .5em white;
 }
 
+<<<<<<< HEAD
 HEAD 
+=======
+ HEAD
+>>>>>>> c20c5e989f4f464224fc4a10d3465324b842b29a
 .nav-link {
 	color: #34623k
 }
 
+<<<<<<< HEAD
 #example-image {
     position: relative; /* or absolute, depending on your layout */
     top: 20px;
     left: 30px;
 }
+=======
+}
+>>>>>>> c20c5e989f4f464224fc4a10d3465324b842b29a
